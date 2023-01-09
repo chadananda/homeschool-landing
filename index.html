@@ -11,32 +11,34 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <script src="/tailwind.js"></script>
+
 </head>
 
 <body class="overflow-x-hidden">
 
   <!-- Add a header section at the top of the page -->
-  <header class="bg-gray-100 py-2 px-8 mb-4 text-center text-2xl font-serif overflow-x-hidden w-full">
-    <h1 class="title text-3xl pb-2">WholeReader for Homeschooling Families</h1>
-    <h2 class="subtitle text-sm sm:text-xl max-w-screen-md mx-auto">
+  <header class="header">
+    <h1 class="title">WholeReader for Homeschooling Families</h1>
+    <h2 class="subtitle">
       Immersive reading software which combines narration with reading to help children absorb vocabulary and grammar with both ear and eye
     </h2>
-    <h3 class="subtitle text-sm italic py-2 text-green-600 mx-auto">
-     <span class="bg-yellow-200 bg-clip-padding"> Free for Homeschool Use </span>
+    <h3 class="subtitle">
+      <em>Free for Homeschool Use</em>
     </h3>
   </header>
 
   <!-- Add the main content of the page -->
   <main class="container p-2 overflow-x-hidden mx-1 sm:mx-auto sm:max-w-screen-md   ">
 
-   <img class="wr-sshot-phone float-right m-1 w-36 hidden sm:block" src="/img/phone-sshot.png" alt="WholeReader screenshot on a phone" />
-   <img class="wr-sshot-phone2 m-0 mb-2 -mt-2 w-screen block sm:hidden" src="/img/book-cover-h.png" alt="WholeReader screenshot on a phone" />
+   <img class="wr-sshot-phone sm:block" src="/img/phone-sshot.png" alt="WholeReader screenshot on a phone" />
+   <img class="wr-sshot-phone2 sm:hidden" src="/img/book-cover-h.png" alt="WholeReader screenshot on a phone" />
 
    <p class="personal-open text-base font-sans mt-5">This is a sales-pitch without a sale. We are giving away WholeReader for Homeschool families at no cost.  I will try to persuade you to take the time to try WholeReader as part of your daily homeschool activity. Your time is limited, so even a completely free app requires explanation. </p>
 
    <p class="personal-note text-base font-sans italic">We’re an educational non-profit focused on reading technology, specifically to encourage classical reading. Personally, I was homeschooled with the old Calvert curriculum and now my 9-year-old son has been homeschooled using early versions of WholeReader. Now that WholeReader is ready for a public beta release, I want to empower homeschool families to be our first users. So I’ve secured permission to give 1-year free for homeschool families.</p>
 
-   <p class="call-to-action">To get WholeReader free, use this coupon link: <br>
+   <p class="call-to-action clear">To get WholeReader free, use this coupon link: <br>
      <a class="" href="https://wholereader.com/link/Gzgfc">https://wholereader.com/link/Gzgfc</a>
    </p>
 
@@ -63,9 +65,9 @@
    <h3 class="subhead"> Immersive reading? </h3>
 
    <p class="w-full">
-    <div class="inline-flex max-w-screen-md mx-auto">
-     <img class="animated-demo w-72 ml-10 " src="/img/ImmersiveReading.gif" alt="immserive reading demo animation" />
-     <img class="animated-icon w-36 ml-2 opacity-10" src="/img/animated-audio.gif" alt="animated audio icon" />
+    <div class="animated-container">
+     <img class="animated-demo" src="/img/ImmersiveReading.gif" alt="immserive reading demo animation" />
+     <img class="animated-icon" src="/img/animated-audio.gif" alt="animated audio icon" />
     </div>
    </p>
 
@@ -75,17 +77,17 @@
 
   <p>The way it works is simple. Each paragraph of text has a little “Play” button next to it which starts audio narration and highlights each word as it is spoken. Students need only read along. You see, low-comprehension reading creates a negative spiral with the pace slowing down and thus becoming increasingly less comprehensible and uninteresting. But by maintaining a correct pace and high comprehension, interest and learning are also maintained. Students quickly absorb figures of speech, grammatical constructs, and new vocabulary with the ear, while picking up correct spelling and punctuation with the eye.</p>
 
-  <p class="">
-   <img class="demo w-4/5 max-w-screen-md mx-auto shadow-lg" src="/img/play-button.png" alt="immserive reading demo animation" />
+  <p class="" style="width:90%">
+    <center><img class="demo" src="/img/play-button.png" alt="immserive reading demo animation" /></center>
   </p>
 
    <h3 class="subhead">Give it a try for yourself. </h3>
 
   <p>Below is a sample link to a passage from the notoriously difficult King James Bible. Notice how even complex text becomes easily comprehensible when read well. And comprehension is the key to natural absorption.</p>
 
-  <blockquote class="book-quote text-center mx-85 my-4 text-md italic linkcolor sm:text-right max-w-prose mx-auto">
+  <blockquote class="book-quote linkcolor">
     <a href="https://wholereader.com/link/BeDw4/kjv-gospel-of-luke" target="_blank">
-    <img class="quote-qr-code w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right" src="/img/kjv-qr-1.png" alt="QR-code for KJV quote, Luke" />
+    <img class="quote-qr-code" src="/img/kjv-qr-1.png" alt="QR-code for KJV quote, Luke" />
     “And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them.”</a>
   </blockquote>
 
@@ -134,16 +136,10 @@
     <p class="call-to-action">For get WholeReader free, use this coupon link: <br>
     <a class="" href="https://wholereader.com/link/Gzgfc">https://wholereader.com/link/Gzgfc</a></p>
 
-
-
-
     <!-- insert full-width youtube video embedd width="560" height="315" -->
     <div class="video-container mb-10">
-
-      <iframe class="mx-auto my-3" width="560" height="315" src="/img/https://www.youtube.com/embed/TBr1SXRsgCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen lazy></iframe>
-
+      <iframe class="mx-auto my-3" width="560" height="315" src="https://www.youtube.com/embed/TBr1SXRsgCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen lazy></iframe>
     </div>
-
 
   </main>
 
@@ -152,11 +148,70 @@
   </footer>
 
 
-<script   src="https://cdn.tailwindcss.com"></script>
-
 <style type="text/css">
  /* use popular stylish google web fonts for all headers and body text */
  @import url('https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Slab:400,700');
+
+ header {
+   /* convert tailwind to css: bg-gray-100 py-2 px-8 mb-4 text-center text-2xl font-serif overflow-x-hidden w-full */
+    background-color: #bababa;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Roboto Slab', serif;
+    overflow-x: hidden;
+    width: 100%;
+ }
+ header .title {
+  /*convert tailwind to css: text-3xl pb-2 */
+  font-size: 1.875rem;
+  padding-bottom: .5rem;
+ }
+ header .subtitle {
+  /*convert tailwind to css: text-sm sm:text-xl max-w-screen-md mx-auto */
+  font-size: .875rem;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+ body, body header {
+   box-sizing: border-box !important;
+   margin-left: 0;
+   margin-right: 0;
+   margin-top: 0;
+ }
+
+ img.wr-sshot-phone {
+   /* css from tailwind: float-right m-1 w-36 hidden sm:block */
+   float: right;
+    margin-left: .25rem;
+    margin-right: .25rem;
+    width: 9rem;
+    display: none;
+ }
+ img.wr-sshot-phone2 {
+   /* css from tailwind: m-0 mb-2 -mt-2 w-screen block sm:hidden */
+    margin-left: 0;
+      margin-right: 0;
+      margin-bottom: .5rem;
+      margin-top: -.5rem;
+      width: 100%;
+      display: block;
+ }
+@media (min-width: 640px) {
+  /* CSS styles for the sm breakpoint go here */
+  img.wr-sshot-phone {
+    display: block;
+  }
+  img.wr-sshot-phone2 {
+    display: none;
+  }
+}
 
  h1,h2,h3, blockquote {
   font-family: 'Roboto Slab', serif;
@@ -164,6 +219,8 @@
  main {
    max-width: 800px;
    margin: auto;
+   padding-right: 1em;
+   padding-left: 1em;
  }
  p {
    font-size: 16px;
@@ -201,7 +258,7 @@
    /* border-bottom: 1px solid #1a1a1a; */
  }
 
- .linkcolor {
+ .linkcolor, .linkcolor a {
    color: #29317a;
  }
 
@@ -218,6 +275,66 @@
    font-style: italic;
    background-color: rgb(248, 248, 50);
  }
+
+ .animated-container {
+  /* inline-flex max-w-screen-md mx-auto */
+  display: inline-flex;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ .animated-container .animated-demo {
+  /* w-72 ml-10 */
+  width: 18rem;
+  margin-left: 2.5rem;
+ }
+.animated-container .animated-icon {
+  /* w-36 ml-2 opacity-10 */
+  width: 9rem;
+  margin-left: .5rem;
+  opacity: .1;
+}
+.demo {
+  /*  w-4/5 max-w-screen-md mx-auto shadow-lg */
+  width: 80%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.book-quote {
+  /*  text-center mx-85 my-4 text-md italic sm:text-right max-w-prose mx-auto */
+  text-align: center;
+  margin-left: 21.25rem;
+  margin-right: 21.25rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  font-style: italic;
+  text-align: right;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.quote-qr-code {
+  /* w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right */
+  width: 5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width: 640px) {
+  /* CSS styles for the sm breakpoint go here */
+  .quote-qr-code {
+    margin-left: .25rem;
+    margin-right: .25rem;
+    float: right;
+  }
+}
+.clear {
+  clear: both;
+}
 
 </style>
 
