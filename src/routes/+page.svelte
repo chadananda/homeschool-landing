@@ -62,10 +62,8 @@
 <h3 class="subhead"> Immersive reading? </h3>
 
 <div class="inline-flex max-w-screen-md mx-auto">
- <!-- <img class="w-72 ml-10" src="/img/ImmersiveReading.gif" alt="immserive reading demo animation" /> -->
 
  <video class="w-96 ml-10" autoplay loop muted playsinline>
-   <!-- <source src="/img/ImmersiveReading.webm" type="video/webm"> -->
    <source src="/img/ImmersiveReading.mp4" type="video/mp4">
  </video>
 
@@ -79,7 +77,7 @@
 <p>The way it works is simple. Each paragraph of text has a little “Play” button next to it which starts audio narration and highlights each word as it is spoken. Students need only read along. You see, low-comprehension reading creates a negative spiral with the pace slowing down and thus becoming increasingly less comprehensible and uninteresting. But by maintaining a correct pace and high comprehension, interest and learning are also maintained. Students quickly absorb figures of speech, grammatical constructs, and new vocabulary with the ear, while picking up correct spelling and punctuation with the eye.</p>
 
 <p class="w-4/5" >
- <center><img class="w-4/5 max-w-screen-md mx-auto shadow-lg h-auto" src="/img/play-button.webp" alt="immserive reading demo animation" /></center>
+ <center><img class="w-4/5 max-w-screen-md mx-auto shadow-lg h-auto" width="" height="" src="/img/play-button.webp" alt="immserive reading demo animation" /></center>
 </p>
 
 <h3 class="subhead">Give it a try for yourself. </h3>
@@ -88,7 +86,7 @@
 
 <blockquote class="text-center mx-85 my-4 text-md italic sm:text-right max-w-prose mx-auto linkcolor">
  <a href="https://wholereader.com/link/BeDw4/kjv-gospel-of-luke" target="_blank" rel="noreferrer">
- <img class="w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right h-auto" src="/img/kjv-qr-1.webp" alt="QR-code for KJV quote, Luke" />
+ <img class="w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right h-auto" src="/img/kjv-qr-1.webp" alt="QR-code for KJV quote, Luke" width="80" height="80" />
  “And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them.”</a>
 </blockquote>
 
@@ -101,8 +99,8 @@
 
 
 <p class="">
-<img class="float-right m-1 w-48 hidden sm:block h-auto" src="/img/reading-v.webp" alt="immersive reading family Vert" />
-<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden h-auto" src="/img/reading-h.webp" alt="immersive reading family Horz" />
+<img class="float-right m-1 w-48 hidden sm:block h-auto" src="/img/reading-v.webp" width="192" height="302.25" alt="immersive reading family Vert" />
+<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden h-auto" src="/img/reading-h.webp" width="617" height="407.3" alt="immersive reading family Horz" />
 </p>
 
 <h3 class="subhead">Literary English takes years of daily reading! </h3>
