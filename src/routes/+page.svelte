@@ -3,6 +3,7 @@
 </script>
 
 <svelte:head>
+    <link rel=preconnect>
 
     <title>WholeReader - Free for Homeschooling Families</title>
 
