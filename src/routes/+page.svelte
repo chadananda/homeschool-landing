@@ -214,6 +214,11 @@ em {
 .clear {
   clear: both;
 }
+img {
+  object-fit: contain;
+}
+
+
 </style>
 
 
