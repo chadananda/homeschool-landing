@@ -153,6 +153,7 @@
 
 * {
   font-display: swap !important;
+  box-sizing: border-box !important;
 }
 
 header, h1, h2, h3 {
