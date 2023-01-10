@@ -76,8 +76,8 @@
 
 <p>The way it works is simple. Each paragraph of text has a little “Play” button next to it which starts audio narration and highlights each word as it is spoken. Students need only read along. You see, low-comprehension reading creates a negative spiral with the pace slowing down and thus becoming increasingly less comprehensible and uninteresting. But by maintaining a correct pace and high comprehension, interest and learning are also maintained. Students quickly absorb figures of speech, grammatical constructs, and new vocabulary with the ear, while picking up correct spelling and punctuation with the eye.</p>
 
-<p class="w-4/5" >
- <center><img class="w-4/5 max-w-screen-md mx-auto shadow-lg h-auto" width="" height="" src="/img/play-button.webp" alt="immserive reading demo animation" /></center>
+<p class="w-11/12" >
+ <center><img class="w-full max-w-screen-md mx-auto shadow-lg h-auto" width="481.27" height="156.51" src="/img/play-button.webp" alt="immserive reading demo animation" /></center>
 </p>
 
 <h3 class="subhead">Give it a try for yourself. </h3>
