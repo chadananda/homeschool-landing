@@ -3,7 +3,13 @@
 </script>
 
 <svelte:head>
+
     <title>WholeReader - Free for Homeschooling Families</title>
+
+    <meta name="description" content="WholeReader is a free reading app for homeschooling families. It combines narration with reading to help children absorb vocabulary and grammar with both ear and eye.">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </svelte:head>
 
 
