@@ -156,7 +156,7 @@
 }
 
 header, h1, h2, h3 {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'RobotoSlab', serif;
   font-display: swap !important;
 }
 
@@ -171,7 +171,7 @@ h3.subhead {
   font-size: 1.5em;
   margin-bottom: 1em;
   margin-top: 2em;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'RobotoSlab', serif;
   font-display: swap !important;
 }
 /* add border shadow */
@@ -181,7 +181,7 @@ h3.subhead {
   font-size: 1.5em;
   text-align: center;
   font-weight: bold;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'RobotoSlab', serif;
   font-display: swap !important;
   color: rgb(31, 86, 31);
   /* border: 1px solid gray; */
