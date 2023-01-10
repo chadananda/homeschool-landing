@@ -69,7 +69,7 @@
    <source src="/img/ImmersiveReading.mp4" type="video/mp4">
  </video>
 
- <img class="w-36 ml-2 opacity-10" src="/img/animated-audio.gif" alt="animated audio icon" />
+ <img class="w-36 ml-2 opacity-10" src="/img/animated-audio.gif" width="144" alt="animated audio icon" />
 </div>
 
 <p>Immersive reading is something very new, but also very old. It refers to linking quality human narration word-for-word with entire books to provide an ‘immersive’ reading experience combining both ear and eye. Why? <em>Because language itself is fundamentally musical.</em> Reading with the eye is powerful, but it’s an abstraction layer over actual language. By combining both ear and eye, we can boost absorption. It is no mistake that even the news was once conveyed in verse, by a musical bard. Modern education has completely stripped poetry, verse, prose, and all the musical elements out of our experience with language. But language is fundamentally a form of music. Consider how you can get a song stuck in your head. That capacity is the same faculty which allows us all to absorb grammar and vocabulary rapidly and effectively. When kids read daily with immersive audio, you’ll notice them constantly trying out new phrases or vocabulary as new patterns rattle around in their heads before settling into their language toolkit. As a parent, it’s magical to witness.</p>
