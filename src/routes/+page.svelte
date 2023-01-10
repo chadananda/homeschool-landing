@@ -62,7 +62,13 @@
 <h3 class="subhead"> Immersive reading? </h3>
 
 <div class="inline-flex max-w-screen-md mx-auto">
- <img class="w-72 ml-10" src="/img/ImmersiveReading.gif" alt="immserive reading demo animation" />
+ <!-- <img class="w-72 ml-10" src="/img/ImmersiveReading.gif" alt="immserive reading demo animation" /> -->
+
+ <video class="w-96 ml-10" autoplay loop muted playsinline>
+   <source src="/img/ImmersiveReading.webm" type="video/webm">
+   <source src="/img/ImmersiveReading.mp4" type="video/mp4">
+ </video>
+
  <img class="w-36 ml-2 opacity-10" src="/img/animated-audio.gif" alt="animated audio icon" />
 </div>
 
@@ -133,7 +139,7 @@
 
  <!-- insert full-width youtube video embedd width="560" height="315" -->
  <div class="video-container mb-10">
-   <iframe title="video intro" class="mx-auto my-3" width="560" height="315" src="https://www.youtube.com/embed/TBr1SXRsgCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen lazy></iframe>
+   <iframe title="video intro" class="mx-auto my-3" width="560" height="315" src="https://www.youtube.com/embed/TBr1SXRsgCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
  </div>
 
 </main>
