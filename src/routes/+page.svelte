@@ -2,6 +2,10 @@
  import "../app.css";
 </script>
 
+<svelte:head>
+    <title>WholeReader - Free for Homeschooling Families</title>
+</svelte:head>
+
 
 <header class="bg-gray-300 py-2 px-8 mb-4 text-center text-2xl font-serif overflow-x-hidden w-full roboto">
  <h1 class="text-3xl pb-2 roboto ">WholeReader for Homeschooling Families</h1>
