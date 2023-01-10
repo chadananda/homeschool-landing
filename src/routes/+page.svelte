@@ -28,8 +28,8 @@
 <!-- Add the main content of the page -->
 <main class="container p-2 overflow-x-hidden mx-1 sm:mx-auto sm:max-w-screen-md   ">
 
-<img class="float-right m-1 w-36 hidden sm:block" width="512" height="384" src="/img/phone-sshot.webp" alt="WholeReader screenshot on a phone" />
-<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden" width="640" src="/img/book-cover-h.webp" alt="WholeReader screenshot on a phone" />
+<img class="float-right m-1 w-36 hidden sm:block h-auto" width="512"  src="/img/phone-sshot.webp" alt="WholeReader screenshot on a phone" />
+<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden h-auto" width="640" src="/img/book-cover-h.webp" alt="WholeReader screenshot on a phone" />
 
 <p class="personal-open text-base font-sans mt-5">This is a sales-pitch without a sale. We are giving away WholeReader for Homeschool families at no cost.  I will try to persuade you to take the time to try WholeReader as part of your daily homeschool activity. Your time is limited, so even a completely free app requires explanation. </p>
 
@@ -69,7 +69,7 @@
    <source src="/img/ImmersiveReading.mp4" type="video/mp4">
  </video>
 
- <img class="w-36 ml-2 opacity-10" src="/img/animated-audio.gif" width="244" height="512" alt="animated audio icon" />
+ <img class="w-36 ml-2 opacity-10 h-auto" src="/img/animated-audio.gif" width="244" alt="animated audio icon" />
 </div>
 
 <p>Immersive reading is something very new, but also very old. It refers to linking quality human narration word-for-word with entire books to provide an ‘immersive’ reading experience combining both ear and eye. Why? <em>Because language itself is fundamentally musical.</em> Reading with the eye is powerful, but it’s an abstraction layer over actual language. By combining both ear and eye, we can boost absorption. It is no mistake that even the news was once conveyed in verse, by a musical bard. Modern education has completely stripped poetry, verse, prose, and all the musical elements out of our experience with language. But language is fundamentally a form of music. Consider how you can get a song stuck in your head. That capacity is the same faculty which allows us all to absorb grammar and vocabulary rapidly and effectively. When kids read daily with immersive audio, you’ll notice them constantly trying out new phrases or vocabulary as new patterns rattle around in their heads before settling into their language toolkit. As a parent, it’s magical to witness.</p>
@@ -79,7 +79,7 @@
 <p>The way it works is simple. Each paragraph of text has a little “Play” button next to it which starts audio narration and highlights each word as it is spoken. Students need only read along. You see, low-comprehension reading creates a negative spiral with the pace slowing down and thus becoming increasingly less comprehensible and uninteresting. But by maintaining a correct pace and high comprehension, interest and learning are also maintained. Students quickly absorb figures of speech, grammatical constructs, and new vocabulary with the ear, while picking up correct spelling and punctuation with the eye.</p>
 
 <p class="w-4/5" >
- <center><img class="w-4/5 max-w-screen-md mx-auto shadow-lg" src="/img/play-button.webp" alt="immserive reading demo animation" /></center>
+ <center><img class="w-4/5 max-w-screen-md mx-auto shadow-lg h-auto" src="/img/play-button.webp" alt="immserive reading demo animation" /></center>
 </p>
 
 <h3 class="subhead">Give it a try for yourself. </h3>
@@ -88,7 +88,7 @@
 
 <blockquote class="text-center mx-85 my-4 text-md italic sm:text-right max-w-prose mx-auto linkcolor">
  <a href="https://wholereader.com/link/BeDw4/kjv-gospel-of-luke" target="_blank" rel="noreferrer">
- <img class="w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right" src="/img/kjv-qr-1.webp" alt="QR-code for KJV quote, Luke" />
+ <img class="w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right h-auto" src="/img/kjv-qr-1.webp" alt="QR-code for KJV quote, Luke" />
  “And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them.”</a>
 </blockquote>
 
@@ -101,8 +101,8 @@
 
 
 <p class="">
-<img class="float-right m-1 w-48 hidden sm:block" src="/img/reading-v.webp" alt="immersive reading family Vert" />
-<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden" src="/img/reading-h.webp" alt="immersive reading family Horz" />
+<img class="float-right m-1 w-48 hidden sm:block h-auto" src="/img/reading-v.webp" alt="immersive reading family Vert" />
+<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden h-auto" src="/img/reading-h.webp" alt="immersive reading family Horz" />
 </p>
 
 <h3 class="subhead">Literary English takes years of daily reading! </h3>
