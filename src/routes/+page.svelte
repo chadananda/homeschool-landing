@@ -153,6 +153,7 @@
 
 header, h1, h2, h3 {
   font-family: 'Roboto Slab', serif;
+  font-display: swap;
 }
 
 p {
