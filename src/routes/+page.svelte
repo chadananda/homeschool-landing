@@ -18,8 +18,8 @@
 <!-- Add the main content of the page -->
 <main class="container p-2 overflow-x-hidden mx-1 sm:mx-auto sm:max-w-screen-md   ">
 
-<img class="float-right m-1 w-36 hidden sm:block" src="/img/phone-sshot.png" alt="WholeReader screenshot on a phone" />
-<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden" src="/img/book-cover-h.png" alt="WholeReader screenshot on a phone" />
+<img class="float-right m-1 w-36 hidden sm:block" src="/img/phone-sshot.webp" alt="WholeReader screenshot on a phone" />
+<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden" src="/img/book-cover-h.webp" alt="WholeReader screenshot on a phone" />
 
 <p class="personal-open text-base font-sans mt-5">This is a sales-pitch without a sale. We are giving away WholeReader for Homeschool families at no cost.  I will try to persuade you to take the time to try WholeReader as part of your daily homeschool activity. Your time is limited, so even a completely free app requires explanation. </p>
 
@@ -63,7 +63,7 @@
 <p>The way it works is simple. Each paragraph of text has a little “Play” button next to it which starts audio narration and highlights each word as it is spoken. Students need only read along. You see, low-comprehension reading creates a negative spiral with the pace slowing down and thus becoming increasingly less comprehensible and uninteresting. But by maintaining a correct pace and high comprehension, interest and learning are also maintained. Students quickly absorb figures of speech, grammatical constructs, and new vocabulary with the ear, while picking up correct spelling and punctuation with the eye.</p>
 
 <p class="w-4/5" >
- <center><img class="w-4/5 max-w-screen-md mx-auto shadow-lg" src="/img/play-button.png" alt="immserive reading demo animation" /></center>
+ <center><img class="w-4/5 max-w-screen-md mx-auto shadow-lg" src="/img/play-button.webp" alt="immserive reading demo animation" /></center>
 </p>
 
 <h3 class="subhead">Give it a try for yourself. </h3>
@@ -72,7 +72,7 @@
 
 <blockquote class="text-center mx-85 my-4 text-md italic sm:text-right max-w-prose mx-auto linkcolor">
  <a href="https://wholereader.com/link/BeDw4/kjv-gospel-of-luke" target="_blank" rel="noreferrer">
- <img class="w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right" src="/img/kjv-qr-1.png" alt="QR-code for KJV quote, Luke" />
+ <img class="w-20 block mx-auto sm:m-1 sm:ml-8 sm:-mr-5 sm:float-right" src="/img/kjv-qr-1.webp" alt="QR-code for KJV quote, Luke" />
  “And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them.”</a>
 </blockquote>
 
@@ -85,8 +85,8 @@
 
 
 <p class="">
-<img class="float-right m-1 w-48 hidden sm:block" src="/img/reading-v.png" alt="immersive reading family Vert" />
-<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden" src="/img/reading-h.png" alt="immersive reading family Horz" />
+<img class="float-right m-1 w-48 hidden sm:block" src="/img/reading-v.webp" alt="immersive reading family Vert" />
+<img class="m-0 mb-2 -mt-2 w-screen block sm:hidden" src="/img/reading-h.webp" alt="immersive reading family Horz" />
 </p>
 
 <h3 class="subhead">Literary English takes years of daily reading! </h3>
