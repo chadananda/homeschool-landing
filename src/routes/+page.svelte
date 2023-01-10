@@ -65,7 +65,7 @@
  <!-- <img class="w-72 ml-10" src="/img/ImmersiveReading.gif" alt="immserive reading demo animation" /> -->
 
  <video class="w-96 ml-10" autoplay loop muted playsinline>
-   <source src="/img/ImmersiveReading.webm" type="video/webm">
+   <!-- <source src="/img/ImmersiveReading.webm" type="video/webm"> -->
    <source src="/img/ImmersiveReading.mp4" type="video/mp4">
  </video>
 
