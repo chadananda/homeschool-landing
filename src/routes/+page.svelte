@@ -28,7 +28,7 @@
 <!-- Add the main content of the page -->
 <main class="container p-2 overflow-x-hidden mx-1 sm:mx-auto sm:max-w-screen-md   ">
 
-<img class="float-right m-1 w-36 hidden sm:block" width="144" src="/img/phone-sshot.webp" alt="WholeReader screenshot on a phone" />
+<img class="float-right m-1 w-36 hidden sm:block" width="512" height="384" src="/img/phone-sshot.webp" alt="WholeReader screenshot on a phone" />
 <img class="m-0 mb-2 -mt-2 w-screen block sm:hidden" width="640" src="/img/book-cover-h.webp" alt="WholeReader screenshot on a phone" />
 
 <p class="personal-open text-base font-sans mt-5">This is a sales-pitch without a sale. We are giving away WholeReader for Homeschool families at no cost.  I will try to persuade you to take the time to try WholeReader as part of your daily homeschool activity. Your time is limited, so even a completely free app requires explanation. </p>
