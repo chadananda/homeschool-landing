@@ -153,12 +153,13 @@
 
 header, h1, h2, h3 {
   font-family: 'Roboto Slab', serif;
-  font-display: swap;
+  font-display: swap !important;
 }
 
 p {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
+  font-display: swap !important;
   margin-bottom: 1em;
 }
 
@@ -167,6 +168,7 @@ h3.subhead {
   margin-bottom: 1em;
   margin-top: 2em;
   font-family: 'Roboto Slab', serif;
+  font-display: swap !important;
 }
 /* add border shadow */
 .call-to-action {
@@ -176,6 +178,7 @@ h3.subhead {
   text-align: center;
   font-weight: bold;
   font-family: 'Roboto Slab', serif;
+  font-display: swap !important;
   color: rgb(31, 86, 31);
   /* border: 1px solid gray; */
   border-radius: 10px;
