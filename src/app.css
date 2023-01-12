@@ -8,9 +8,71 @@
  font-display: swap;
 }
 
-
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.roboto {
+  font-family: 'RobotoSlab', sans-serif;
+}
+em {
+ font-style: italic;
+ background-color: rgb(245, 245, 148);
+}
+.clear {
+ clear: both;
+}
+img {
+ object-fit: contain;
+}
+.contentContainer {
+  @apply container p-2 overflow-x-hidden mx-1 sm:mx-auto sm:max-w-screen-md;
+}
+* {
+  box-sizing: border-box !important;
+}
+header, h1, h2, h3 {
+ font-family: 'RobotoSlab', sans-serif;
+}
+
+p {
+ font-size: 16px;
+ font-family: 'Roboto', sans-serif;
+ font-display: swap !important;
+ margin-bottom: 1em;
+}
+
+h3 {
+ font-size: 1.5em;
+ margin-bottom: 1em;
+ margin-top: 2em;
+}
+
+.linkcolor, .linkcolor a, a {
+ color: #29317a;
+}
+
+
+  /* make ol numbered, with margin */
+  ol {
+   list-style-type: decimal;
+   margin-left: 2em;
+ }
+ ol li {
+   margin-bottom: 1em;
+ }
+
+ em, strong {
+   font-style: italic; font-weight: normal;
+   background-color: rgb(249, 249, 123);
+ }
+ .clear {
+   clear: both;
+ }
+ img {
+   object-fit: contain;
+ }
+
+
+
 
