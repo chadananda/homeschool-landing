@@ -1,3 +1,4 @@
-# homeschool-landing
+# WholeReader single-page offers
+### landing pages for special coupon offers
 
-### [https://chadananda.github.io/homeschool-landing](https://chadananda.github.io/homeschool-landing/)
+## [https://https://wr-offers.netlify.app/](https://https://wr-offers.netlify.app/)

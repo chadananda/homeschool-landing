@@ -64,6 +64,10 @@ WholeReader es más que solo una plataforma de libros electrónicos, es una herr
 
 
 
+<EmbeddedVideo src="https://www.youtube.com/embed/TBr1SXRsgCo" />
+
 </MainContent>
+
+<Footer message="Questions? Contact me directly:" email="chadananda@gmail.com" />
 
 

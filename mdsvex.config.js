@@ -6,7 +6,7 @@ const config = defineConfig({
   smartypants: {
     quotes: true,
     ellipses: true,
-    backticks: 'all',
+    // backticks: 'all',
     dashes: 'inverted'
   },
 
