@@ -46,6 +46,18 @@
 
 <p>Y no olvidemos a tus hijos, la lectura es la base de la educación y al utilizar WholeReader, mejorarán su inglés literario, dándoles las habilidades para tener éxito académicamente y en sus futuras carreras.</p>
 
+<h3 class="subhead"> ¿Lectura inmersiva? </h3>
+<div class="inline-flex max-w-screen-md mx-auto">
+ <video class="w-96 ml-10" autoplay loop muted playsinline>
+   <source src="/img/ImmersiveReading.mp4" type="video/mp4">
+ </video>
+ <img class="w-36 ml-2 opacity-10 h-auto" src="/img/animated-audio.gif" width="512" length="384" alt="ícono de audio animado" />
+</div>
+
+<p>La lectura inmersiva es algo muy nuevo, pero también muy antiguo. Se refiere a enlazar una narración humana de alta calidad palabra por palabra con libros completos para proporcionar una experiencia de lectura "inmersiva" que combina el oído y el ojo. ¿Por qué? <em> Porque el lenguaje en sí mismo es fundamentalmente musical.</em> Leer con el ojo es poderoso, pero es una capa de abstracción sobre el lenguaje real. Al combinar ambos oídos y ojos, podemos aumentar la absorción. No es una coincidencia que incluso las noticias antiguamente eran contadas en verso por un bardo musical. La educación modern ha eliminado completamente la poesía, el verso, la prosa y todos los elementos musicales de nuestra experiencia con el idioma. Pero el lenguaje es fundamentalmente una forma de música. Considere cómo puede tener una canción en la cabeza. Esa capacidad es la misma facultad que nos permite a todos absorber rápida y eficazmente gramática y vocabulario. Cuando los niños leen diariamente con audio inmersivo, notarás que están constantemente intentando nuevas frases o vocabulario a medida que nuevos patrones resuenan en sus cabezas antes de aterrizar en su herramienta de idioma. Como padre, es mágico presenciarlo. </p>
+
+
+
 <p>WholeReader es más que solo una plataforma de libros electrónicos, es una herramienta poderosa para ayudar a los inmigrantes como tú y tus hijos a prosperar en los Estados Unidos. Entendemos que este viaje puede ser difícil, por lo que para hacerlo más fácil te ofrecemos un cupón gratis de uso por un año para que puedas desarrollar el hábito de leer diariamente. Y te podemos prometer una cosa, verás una mejoría dramática en solo unos pocos días. No esperes más, regístrate para WholeReader hoy y comienza tu camino hacia la fluidez y el éxito.</p>
 
 
