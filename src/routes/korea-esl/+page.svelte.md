@@ -7,7 +7,11 @@ published_at: "January 12 2023"
 keywords: "영어 숙달, 아메리칸 문화, 읽기, 책, 언어 학습, 전자책 플랫폼, 입문적 읽기, 어휘, 문법, AI, 클래식 문학, 아메리칸 문학, 성공, 일자리, 무료 시범, 한국, 이해력, 즐거움, 전자 읽, 전자 읽기"
 lang: "ko"
 couponLink: "https://wholereader.com/link/Gzgfc"
-couponCode: ""
+coupon: "homeschool"
+image: "img/reading-h.webp"
+audio: ""
+video: "https://www.youtube.com/embed/TBr1SXRsgCo"
+email: "chadananda@gmail.com"
 ---
 
 <script>
@@ -23,7 +27,7 @@ couponCode: ""
   import ResponsiveImage from '$lib/ResponsiveImage.svelte'
 </script>
 
-<PageHeaderMeta {lang} {title} {description} {keywords} />
+<PageHeaderMeta {lang} {title} {description} {keywords} {coupon} {image} {audio} {video} />
 
 <Header {title} {subtitle} {offer} />
 
@@ -43,9 +47,7 @@ WholeReader는 고급 AI 기술을 이용하여 최적의 읽기 레벨을 결�
 
 제한된 시간 동안, WholeReader는 한국에서 완전히 무료로 제공되고 있으니, 영어 능력과 문화 이해를 변화시키는 기회를 놓치지 마세요. 지금 바로 시도하고 우리의 빠른 평가 테스트를 보며 추천 책들로부터 일일 읽기를 시작하세요.
 
-<OfferBlock {couponLink}>
-WholeReader를 무료로 얻려면 이 쿠폰 링크를 사용하세요:
-</OfferBlock>
+<OfferBlock {couponLink}>WholeReader를 무료로 얻려면 이 쿠폰 링크를 사용하세요:</OfferBlock>
 
 언어가 성공의 장벽이 되지 마세요. WholeReader의 입문적 읽기 접근법은 전문 낭독과 읽기의 힘을 결합하여, 영어 음성과 문법을 숙달하는데 필요한 오디오 모델링을 제공합니다.
 
@@ -67,12 +69,10 @@ WholeReader를 사용하면 언제 어디서든 사용자 친화적인 전자 �
 
 새로운 문화와 언어의 도전을 통해 최대 성장 가능성을 달성하지 못하지 마세요. 오늘부터 WholeReader를 통해 외우기와 성공의 첫 걸음을 떼어내세요. 한국에서 무료 체험판에 가입하고 입문적 읽기의 힘을 직접 경험해보세요.
 
-<OfferBlock {couponLink}>
-성공을 위해 언어를 벽으로 만들지 마세요. 오늘부터 WholeReader를 통해 외우기의 첫 걸음을 떼어내세요.
-</OfferBlock>
+<OfferBlock {couponLink}>성공을 위해 언어를 벽으로 만들지 마세요. 오늘부터 WholeReader를 통해 외우기의 첫 걸음을 떼어내세요.</OfferBlock>
 
-<EmbeddedVideo src="https://www.youtube.com/embed/TBr1SXRsgCo" />
+<EmbeddedVideo src="{video}" />
 
 </MainContent>
 
-<Footer message="Questions? Contact me directly:" email="chadananda@gmail.com" />
+<Footer message="Questions? Contact me directly:" email="{email}" />
