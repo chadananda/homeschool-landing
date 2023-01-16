@@ -2,7 +2,7 @@
 title: "WholeReader - Un camino hacia la fluidez en inglés"
 subtitle: "La lectura es una de las formas más efectivas de adquirir nuevos idiomas, WholeReader lo hará fácil y divertido."
 offer: "Para adultos que hablan español"
-description: "WholeReader es una aplicación de lectura que puede ayudarlo a adquirir un inglés de alta calidad para tener éxito en los Estados Unidos. Sus libros con narración hacen que aprender inglés sea divertido y fácil."
+description: "WholeReader es una aplicación de lectura que puede ayudarlo a adquirir un inglés de alta calidad para tener éxito en los Estados Unidos."
 published_at: "January 12 2023"
 keywords: "inglés, fluidez, lectura, comprensión, vocabulario, gramática, cultura, Estados Unidos, inmigrantes, educación, carrera, e-libro, plataforma, mejoría, desafíos, idioma, habilidades, éxito, herramienta, viaje, difícil, gratis, cupón, leer diariamente, mejoría dramática"
 lang: "en"
@@ -25,7 +25,7 @@ email: "chadananda@gmail.com"
 
 
 
-  <WholeReaderImgResponsive />
+<WholeReaderImgResponsive />
 
 Has tomado la valiente decisión de inmigrar a los Estados Unidos, pero con esta nueva cultura y idioma vienen desafíos. Una de las claves más cruciales para tener éxito en este país es la fluidez en inglés, tanto en la lectura como en la comunicación. Es por eso que estamos emocionados de presentarte WholeReader - la solución innovadora para dominar el inglés literario y darte a ti y a tus hijos las herramientas para prosperar.
 
@@ -35,6 +35,8 @@ Con WholeReader, tendrás acceso a una biblioteca de libros con narración profe
 
 Pero los beneficios de WholeReader van más allá de solo ti. La capacidad de leer y hablar inglés con fluidez es altamente valorada en la fuerza laboral estadounidense, abriendo puertas a nuevas oportunidades y trabajos con mejor remuneración. Te ayudará a ser competitivo en el mercado laboral y aumentar tu potencial de ganancias.
 Y no olvidemos a tus hijos, la lectura es la base de la educación y al utilizar WholeReader, mejorarán su inglés literario, dándoles las habilidades para tener éxito académicamente y en sus futuras carreras.
+
+
 
 ### ¿Lectura inmersiva?
 

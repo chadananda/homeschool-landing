@@ -2,7 +2,7 @@
 title: "WholeReader for Homeschooling Families"
 subtitle: "Immersive reading software which combines narration with reading to help children absorb vocabulary and grammar with both ear and eye"
 offer: "Free for Homeschool Use"
-description: "WholeReader is a free reading app for homeschooling families. It combines narration with reading to help children absorb vocabulary and grammar with both ear and eye."
+description: "WholeReader is a free reading app for homeschooling families. It combines narration with reading to help children absorb with both ear and eye."
 published_at: "January 12 2023"
 keywords: "English fluency, American culture, reading, books, language learning, e-book platform, immersive reading, vocabulary, grammar, AI, classic literature, American literature, success, workforce, free trial, comprehension, enjoyment, e-reading"
 lang: "en"
