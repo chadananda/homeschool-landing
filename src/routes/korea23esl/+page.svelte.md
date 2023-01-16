@@ -6,32 +6,24 @@ description: "WholeReader를 이용하여 영어 숙련도와 아메리칸 문�
 published_at: "January 12 2023"
 keywords: "영어 숙달, 아메리칸 문화, 읽기, 책, 언어 학습, 전자책 플랫폼, 입문적 읽기, 어휘, 문법, AI, 클래식 문학, 아메리칸 문학, 성공, 일자리, 무료 시범, 한국, 이해력, 즐거움, 전자 읽, 전자 읽기"
 lang: "ko"
-couponLink: "https://wholereader.com/link/Gzgfc"
-coupon: "homeschool"
+couponLink: "https://wholereader.com/link/MCwfU"
+coupon: "korea23esl"
 image: "img/reading-h.webp"
 audio: ""
 video: "https://www.youtube.com/embed/TBr1SXRsgCo"
 email: "chadananda@gmail.com"
 ---
 
+<!-- custom blocks  -->
 <script>
-  import Header from '$lib/Header.svelte'
-  import PageHeaderMeta from '$lib/PageHeaderMeta.svelte'
-  import OfferBlock from '$lib/OfferBlock.svelte'
-  import WholeReaderImgResponsive from '$lib/WholeReaderImgResponsive.svelte'
-  import MainContent from '$lib/MainContent.svelte'
-  import ImmersiveAnimation from '$lib/ImmersiveAnimation.svelte'
-  import EmbeddedVideo from '$lib/EmbeddedVideo.svelte'
-  import Footer from '$lib/Footer.svelte'
-  import BookQuote from '$lib/BookQuote.svelte'
-  import ResponsiveImage from '$lib/ResponsiveImage.svelte'
+  import OfferBlock from "$lib/OfferBlock.svelte";
+  import WholeReaderImgResponsive from "$lib/WholeReaderImgResponsive.svelte";
+  import ImmersiveAnimation from "$lib/ImmersiveAnimation.svelte";
+  import BookQuote from "$lib/BookQuote.svelte";
+  import ResponsiveImage from "$lib/ResponsiveImage.svelte";
 </script>
 
-<PageHeaderMeta {lang} {title} {description} {keywords} {coupon} {image} {audio} {video} />
 
-<Header {title} {subtitle} {offer} />
-
-<MainContent>
 
   <WholeReaderImgResponsive />
 
@@ -71,8 +63,6 @@ WholeReader를 사용하면 언제 어디서든 사용자 친화적인 전자 �
 
 <OfferBlock {couponLink}>성공을 위해 언어를 벽으로 만들지 마세요. 오늘부터 WholeReader를 통해 외우기의 첫 걸음을 떼어내세요.</OfferBlock>
 
-<EmbeddedVideo src="{video}" />
 
-</MainContent>
 
-<Footer message="Questions? Contact me directly:" email="{email}" />
+

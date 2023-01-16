@@ -11,29 +11,21 @@ coupon: "homeschool"
 image: "img/reading-h.webp"
 audio: ""
 video: "https://www.youtube.com/embed/TBr1SXRsgCo"
-email: "chadananda@gmail.com"
+email: "deepali.jones@gmail.com"
 ---
 
+<!-- custom blocks  -->
 <script>
-  import Header from '$lib/Header.svelte'
-  import PageHeaderMeta from '$lib/PageHeaderMeta.svelte'
-  import OfferBlock from '$lib/OfferBlock.svelte'
-  import WholeReaderImgResponsive from '$lib/WholeReaderImgResponsive.svelte'
-  import MainContent from '$lib/MainContent.svelte'
-  import ImmersiveAnimation from '$lib/ImmersiveAnimation.svelte'
-  import EmbeddedVideo from '$lib/EmbeddedVideo.svelte'
-  import Footer from '$lib/Footer.svelte'
-  import BookQuote from '$lib/BookQuote.svelte'
-  import ResponsiveImage from '$lib/ResponsiveImage.svelte'
+  import OfferBlock from "$lib/OfferBlock.svelte";
+  import WholeReaderImgResponsive from "$lib/WholeReaderImgResponsive.svelte";
+  import ImmersiveAnimation from "$lib/ImmersiveAnimation.svelte";
+  import BookQuote from "$lib/BookQuote.svelte";
+  import ResponsiveImage from "$lib/ResponsiveImage.svelte";
 </script>
 
-<PageHeaderMeta {lang} {title} {description} {keywords} {coupon} {image} {audio} {video} />
+<WholeReaderImgResponsive />
 
-<Header {title} {subtitle} {offer} />
 
-<MainContent>
-
- <WholeReaderImgResponsive />
 
 This is a sales-pitch without a sale. We are giving away WholeReader for Homeschool families at no cost. I will try to persuade you to take the time to try WholeReader as part of your daily homeschool activity. Your time is limited, so even a completely free app requires explanation.
 
@@ -47,6 +39,7 @@ As technology progresses, it seems that civilization unravels. A recent study by
 
 Much of this simply involves ever-lowering academic expectations and ever-increasing entertainment options. With the proliferation of cell phones & video games, kids are simply not spending the many hours they once did reading adventure novels. These hundreds of hours of reading were necessary to absorb the full breadth of English vocabulary. Kids are just not acquiring the vocabulary needed to read deeper foundational literature. In schools, the problem is especially pronounced. For example, schools have started dropping Mary Shelley’s “Frankenstein” as too difficult for 18-year-old readers. Consider that Mary Shelley was 18 when she wrote that book!
 
+
 ### Extensive reading is 90% of all education
 
 Extensive reading is 90% of all education and the rock foundation of civilization itself. People who talk about saving democracy while not being concerned about extensive reading are thinking of democracy as herding cattle. If we discard reading poetry, history, novels, philosophy and sacred texts -- then we have discarded that which makes us human. We cannot accept technological progress if technology must be pitted against reading itself.
@@ -56,6 +49,7 @@ And yet that is where we find ourselves. Schools are no longer interested in cul
 The solution must come from parents. They are the only ones who care deeply enough about our children’s future to make the necessary changes. And a large part of that change must be to incorporate into each child’s education a much more extensive diet of daily reading.
 
 That is where we come in. Instead of accepting the dichotomy between technology and reading, we are trying to leverage technology to enable classical reading. Our project is “WholeReader” and it’s basically a custom eBook-reader containing an entire library of important K-12 literature, with a twist: immersive reading.
+
 
 ### Immersive reading?
 
@@ -68,6 +62,7 @@ But more specifically, aligned narration boosts reading comprehension because go
 The way it works is simple. Each paragraph of text has a little “Play” button next to it which starts audio narration and highlights each word as it is spoken. Students need only read along. You see, low-comprehension reading creates a negative spiral with the pace slowing down and thus becoming increasingly less comprehensible and uninteresting. But by maintaining a correct pace and high comprehension, interest and learning are also maintained. Students quickly absorb figures of speech, grammatical constructs, and new vocabulary with the ear, while picking up correct spelling and punctuation with the eye.
 
 ![immerive reading screen shot](/img/play-button.webp)
+
 
 ### Give it a try for yourself.
 
@@ -85,11 +80,13 @@ At the end of the day, the goal of reading is not just high vocabulary and the a
 
  <ResponsiveImage hsrc="/img/reading-v.webp" vsrc="/img/reading-h.webp" alt="immersive reading family" />
 
+
 ### Literary English takes years of daily reading!
 
 Yes, a multi-year pathway of reading is required, an arc of language acquisition from children’s stories to adventure novels to biographies to histories to philosophy and sacred literature. On the practical side, it requires a daily diet of reading from a young age through adulthood.
 
 And that is what we are trying to provide with WholeReader. It is a library, not a curriculum. It’s still up to parents to give reading assignments. The most the software does is to assess student reading level (based on a simple vocabulary quiz) and then suggest level-appropriate books.
+
 
 ### A simple recipe to get started
 
@@ -107,14 +104,11 @@ So here is a simple recipe to get your child started with WholeReader in only a 
 
 1. Approximately every two months, students will be prompted to re-assess vocabulary level. Progress is recorded and the suggested books are adjusted to continually challenge their abilities while staying within the ideal comprehension window.
 
+
 ### Continue reading daily until graduated!
 
 That’s it. Continue a daily immersive reading diet, gradually expanding assigned daily reading time until they are spending at least an hour a day in immersive reading. The WholeReader library is like a vast book ladder stretching up from hundreds of classical vocabulary-building novels to the great books of philosophy and ideas -- the foundation of Western civilization.
 
 <OfferBlock {couponLink}>To get WholeReader for free, use this coupon link:</OfferBlock>
 
-  <EmbeddedVideo src="{video}" />
 
-</MainContent>
-
-<Footer message="Questions? Contact me directly:" email="{email}" />

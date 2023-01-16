@@ -5,33 +5,25 @@ offer: "Para adultos que hablan español"
 description: "WholeReader es una aplicación de lectura que puede ayudarlo a adquirir un inglés de alta calidad para tener éxito en los Estados Unidos. Sus libros con narración hacen que aprender inglés sea divertido y fácil."
 published_at: "January 12 2023"
 keywords: "inglés, fluidez, lectura, comprensión, vocabulario, gramática, cultura, Estados Unidos, inmigrantes, educación, carrera, e-libro, plataforma, mejoría, desafíos, idioma, habilidades, éxito, herramienta, viaje, difícil, gratis, cupón, leer diariamente, mejoría dramática"
-lang: "es"
-couponLink: "https://wholereader.com/link/Gzgfc"
-coupon: "homeschool"
+lang: "en"
+couponLink: "https://wholereader.com/link/hi4yq"
+coupon: "adultspanish23"
 image: "img/reading-h.webp"
 audio: ""
 video: "https://www.youtube.com/embed/TBr1SXRsgCo"
 email: "chadananda@gmail.com"
 ---
 
+<!-- custom blocks  -->
 <script>
-  import Header from '$lib/Header.svelte'
-  import PageHeaderMeta from '$lib/PageHeaderMeta.svelte'
-  import OfferBlock from '$lib/OfferBlock.svelte'
-  import WholeReaderImgResponsive from '$lib/WholeReaderImgResponsive.svelte'
-  import MainContent from '$lib/MainContent.svelte'
-  import ImmersiveAnimation from '$lib/ImmersiveAnimation.svelte'
-  import EmbeddedVideo from '$lib/EmbeddedVideo.svelte'
-  import Footer from '$lib/Footer.svelte'
-  import BookQuote from '$lib/BookQuote.svelte'
-  import ResponsiveImage from '$lib/ResponsiveImage.svelte'
+  import OfferBlock from "$lib/OfferBlock.svelte";
+  import WholeReaderImgResponsive from "$lib/WholeReaderImgResponsive.svelte";
+  import ImmersiveAnimation from "$lib/ImmersiveAnimation.svelte";
+  import BookQuote from "$lib/BookQuote.svelte";
+  import ResponsiveImage from "$lib/ResponsiveImage.svelte";
 </script>
 
-<PageHeaderMeta {lang} {title} {description} {keywords} {coupon} {image} {audio} {video} />
 
-<Header {title} {subtitle} {offer} />
-
-<MainContent>
 
   <WholeReaderImgResponsive />
 
@@ -56,8 +48,4 @@ WholeReader es más que solo una plataforma de libros electrónicos, es una herr
 No permitas que el idioma sea un obstáculo para el éxito. Dale el primer paso hacia la fluidez con WholeReader hoy.
 </OfferBlock>
 
-<EmbeddedVideo src="{video}" />
 
-</MainContent>
-
-<Footer message="Questions? Contact me directly:" email="{email}" />
